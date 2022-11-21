@@ -4,7 +4,7 @@ createApp ({
     data () {
       return {
         name: "Hello World!",
-        image: "../img/Logo-RGB-1920-BLUE.png",
+        image: "https://hiringplatform.boolean.careers/images/logo.png",
       };
     },
   }).mount("#app");
